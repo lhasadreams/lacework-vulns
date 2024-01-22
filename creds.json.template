@@ -1,5 +1,5 @@
 {
-  "account": "featurespace.lacework.net",
-  "keyId": "<repalce with you keyId>",
-  "secret": "<repalce with you secret>"
+  "account": "<replace with your account>.lacework.net",
+  "keyId": "<replace with your keyId>",
+  "secret": "<replace with your secret>"
 }
